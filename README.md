@@ -1,6 +1,3 @@
-# CareBears2022
+# esp32-smart-watch-extensions
 
-This is the project integration project from Saxion. This project is part of the Applied Computer Science study.
-The goal of the project is to create a health care device which monitors the health of the user.
-
-This repository contains all the software required for the project to function. This includes PC applications and ESP32 software
+This project's goal is to create a healthcare device that monitors multiple data of the user, sends notifications to web-app, and google-home device
